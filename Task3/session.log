@@ -1,0 +1,11 @@
+Script started on Sun Sep 27 22:09:45 2020
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+[?1034hbash-3.2$ c[Kcd desktop/lab6/task3
+bash-3.2$ convert -depay [K[K[K[Klay  100  loo[K[K[K[K[K -loop 0 *.jpg  [KanimatedGI[K[K.gif
+bash-3.2$ exit
+exit
+
+Script done on Sun Sep 27 22:11:08 2020

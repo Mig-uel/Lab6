@@ -1,0 +1,4 @@
+#!/bin/bash
+
+awk -F, '{OFS=","; print $4,$9;}' NYPD.csv > Report.csv
+echo Done
